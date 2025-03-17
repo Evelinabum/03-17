@@ -26,7 +26,7 @@ Site published at: https://evelinabum.github.io/03-17/
 
 ## 💻 Prerequisites
 
-    Node.js - download and install
+Node.js - download and install
 
 https://nodejs.org
 Git - download and install
