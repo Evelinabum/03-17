@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     margin:0;
+    list-style-position:	inside
 }
 /*****************************************************
  
@@ -24,7 +25,10 @@ body{
 .description{
     background-color: #f3f3f3;
 }
+.directions {
+    background-color: #f3f3f3;
 
+}
 .container{
     padding: 30px 10px;
 
@@ -129,7 +133,6 @@ article  h3 {
  article ol {
     list-style-type:lower-roman;
     line-height: 2;
-    background-color: #f3f3f3;
  }
  
  
